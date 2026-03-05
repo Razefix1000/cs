@@ -1,0 +1,16 @@
+= Doku
+
+== How to Play
+
+* Open this link: https://razefix1000.github.io/cs[Website]
+
+== For Developer
+
+* clone project via:
+
+[source,bash]
+----
+git clone https://github.com/Razefix1000/cs.git
+----
+
+* then open the `index.html` in the browser you like
